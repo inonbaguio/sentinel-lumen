@@ -2,7 +2,7 @@
     "name": "optimus/sentinel-lumen",
     "description": "A Lumen bridge for cartalyst/sentinel",
     "require": {
-        "cartalyst/sentinel": "~2.0"
+        "cartalyst/sentinel": "~2.0 || ~3.0 || ~4.0"
     },
     "authors": [
         {
